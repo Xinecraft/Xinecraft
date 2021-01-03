@@ -44,9 +44,14 @@
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=Unity&style=for-the-badge&logoColor=white)
 
 
+## &#x1f4c8; GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xinecraft&show_icons=true&locale=en&layout=compact" alt="xinecraft" /></p>
+<a href="https://github.com/Xinecraft/Xinecraft">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xinecraft&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/Xinecraft/Xinecraft">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xinecraft&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xinecraft&show_icons=true&locale=en" alt="xinecraft" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xinecraft&" alt="xinecraft" /></p>
