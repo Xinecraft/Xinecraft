@@ -46,6 +46,5 @@
 
 ##  Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinecraft&&langs_count=3)](https://github.com/xinecraft)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinecraft&layout=compact)](https://github.com/xinecraft)
 [![Zishan's github stats](https://github-readme-stats.vercel.app/api?username=xinecraft&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/xinecraft)
