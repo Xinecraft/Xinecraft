@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning more of **React**.
 
-- 👨‍💻 All of my projects are available at [xinecraft.github.io](xinecraft.github.io)
+- 👨‍💻 All of my projects are available at [xinecraft.github.io](https://xinecraft.github.io)
 
 - 📫 How to reach me **zishanansari1337@gmail.com**
 
