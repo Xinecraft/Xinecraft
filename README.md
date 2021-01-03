@@ -18,7 +18,7 @@
 ![postgresql](https://img.shields.io/badge/-postgresql-336791?logo=redis&style=for-the-badge&logoColor=white)
 ![nodejs](https://img.shields.io/badge/-nodejs-339933?logo=node.js&style=for-the-badge&logoColor=white)
 ![python](https://img.shields.io/badge/-python-3776AB?logo=python&style=for-the-badge&logoColor=white)
-![csharp](https://img.shields.io/badge/-c_%23-239120?logo=c-sharp&style=for-the-badge&logoColor=white)
+![csharp](https://img.shields.io/badge/-c_sharp-239120?logo=c-sharp&style=for-the-badge&logoColor=white)
 
 ![laravel](https://img.shields.io/badge/-laravel-FF2D20?logo=laravel&style=for-the-badge&logoColor=white)
 ![express](https://img.shields.io/badge/-express-000000?logo=node.js&style=for-the-badge&logoColor=white)
@@ -48,7 +48,7 @@
 ##  Stats
 
 [![Zishan's github stats](https://github-readme-stats.vercel.app/api?username=xinecraft&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/xinecraft)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinecraft&layout=compact)](https://github.com/xinecraft)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinecraft&layout=compact&langs_count=8)](https://github.com/xinecraft)
 
 ## Projects
 [![KoS](https://img.shields.io/badge/-Live_Ingame_Tracker-FF2D20?logo=laravel&style=for-the-badge&logoColor=white)](http://live.unse-clan.ru)
