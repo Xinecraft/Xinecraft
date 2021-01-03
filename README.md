@@ -48,3 +48,9 @@
 
 [![Zishan's github stats](https://github-readme-stats.vercel.app/api?username=xinecraft&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/xinecraft)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinecraft&layout=compact)](https://github.com/xinecraft)
+
+## Projects
+[![KoS](https://img.shields.io/badge/-Live_Ingame_Tracker-FF2D20?logo=laravel&style=for-the-badge&logoColor=white)](http://live.unse-clan.ru)
+[![WhatGodSay](https://img.shields.io/badge/-WhatGodSay_Search-0080FF?logo=react&style=for-the-badge&logoColor=white)](https://whatgodsay.netlify.app)
+[![TTT](https://img.shields.io/badge/-TickTactToe_WITH_AI-019733?logo=react&style=for-the-badge&logoColor=white)](https://react-ticktactoe.netlify.app)
+[![DiscordBot](https://img.shields.io/badge/-Discord_Bot-7289DA?logo=discord&style=for-the-badge&logoColor=white)](https://github.com/Xinecraft/swat4ever)
