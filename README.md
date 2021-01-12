@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zishan</h1>
 <h3 align="center">Full stack developer & gamer.</h3>
 
-- 🌱 I’m currently learning more of **React**.
+- 🌱 I’m currently learning more of **React** & **Vue**.
 
 - 👨‍💻 All of my projects are available at [xinecraft.github.io](https://xinecraft.github.io)
 
