@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zishan</h1>
-<h3 align="center">Full stack developer & gamer.</h3>
+<h3 align="center">Web Developer & casual gamer.</h3>
 
 - 🌱 I’m currently learning more of **React** & **Vue**.
 
