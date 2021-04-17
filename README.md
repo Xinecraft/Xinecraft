@@ -14,7 +14,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinecraft&layout=compact&langs_count=8)](https://github.com/xinecraft)
 
 ## Projects
-[![KoS](https://img.shields.io/badge/-Live_Ingame_Tracker-FF2D20?logo=laravel&style=for-the-badge&logoColor=white)](http://live.unse-clan.ru)
+[![KoS](https://img.shields.io/badge/-Live_Ingame_Tracker-FF2D20?logo=laravel&style=for-the-badge&logoColor=white)](http://live.unse.su)
 [![TTT](https://img.shields.io/badge/-Maze_Generator-c24aff?logo=react&style=for-the-badge&logoColor=white)](https://react-maze-generator.netlify.app)
 [![WhatGodSay](https://img.shields.io/badge/-WhatGodSay_Search-0080FF?logo=react&style=for-the-badge&logoColor=white)](https://whatgodsay.netlify.app)
 [![TTT](https://img.shields.io/badge/-TickTactToe_WITH_AI-019733?logo=react&style=for-the-badge&logoColor=white)](https://react-ticktactoe.netlify.app)
