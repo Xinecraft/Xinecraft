@@ -16,6 +16,7 @@
 ## Projects
 [![KoS](https://img.shields.io/badge/-Live_Ingame_Tracker-FF2D20?logo=laravel&style=for-the-badge&logoColor=white)](http://live.unse.su)
 [![TTT](https://img.shields.io/badge/-Maze_Generator-c24aff?logo=react&style=for-the-badge&logoColor=white)](https://react-maze-generator.netlify.app)
+[![TTT](https://img.shields.io/badge/-Cellular_Automation-313131?logo=unity&style=for-the-badge&logoColor=white)](https://game-of-life-3d-3fscj7ff2-xinecraft.vercel.app)
 [![WhatGodSay](https://img.shields.io/badge/-WhatGodSay_Search-0080FF?logo=react&style=for-the-badge&logoColor=white)](https://whatgodsay.netlify.app)
 [![TTT](https://img.shields.io/badge/-TickTactToe_WITH_AI-019733?logo=react&style=for-the-badge&logoColor=white)](https://react-ticktactoe.netlify.app)
 [![DiscordBot](https://img.shields.io/badge/-Discord_Bot-7289DA?logo=discord&style=for-the-badge&logoColor=white)](https://github.com/Xinecraft/swat4ever)
