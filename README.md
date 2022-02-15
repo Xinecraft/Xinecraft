@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zishan</h1>
 <h3 align="center">Developer & Casual Gamer.</h3>
 
-- 🌱 I’m currently learning more of **React** & **Vue**.
-
-- 👨‍💻 All of my projects are available at [xinecraft.github.io](https://xinecraft.github.io)
-
+- 🌱 Learning more of **React** & **Vue**.
 - 📫 How to reach me **zishanansari1337@gmail.com**
 
 
