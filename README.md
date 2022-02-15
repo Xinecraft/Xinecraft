@@ -2,7 +2,7 @@
 <h3 align="center">Developer & Casual Gamer.</h3>
 
 - 🌱 Learning more of **React** & **Vue**.
-- 📫 How to reach me **zishanansari1337@gmail.com**
+- 📫 Reach @ **zishanansari1337@gmail.com**
 
 
 ##  Stats
