@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zishan</h1>
 <h3 align="center">...</h3>
 
-- 🌱 Learning more of **React** & **Vue**.
+- 🌱 ~~Learning more of **React** & **Vue**.~~ Currently **procrastinating**.
 - 📫 Reach @ **zishanansari1337@gmail.com**
 
 
