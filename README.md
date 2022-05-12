@@ -6,8 +6,6 @@
 
 
 ##  Stats
-
-[![Zishan's github stats](https://github-readme-stats.vercel.app/api?username=xinecraft&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/xinecraft)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinecraft&layout=compact&langs_count=8)](https://github.com/xinecraft)
 
 ## Projects
