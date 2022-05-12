@@ -18,7 +18,7 @@
 [![CAuto](https://img.shields.io/badge/-Cellular_Automation-313131?logo=unity&style=for-the-badge&logoColor=white)](https://game-of-life-3d.vercel.app)
 [![WhatGodSay](https://img.shields.io/badge/-WhatGodSay_Search-0080FF?logo=react&style=for-the-badge&logoColor=white)](https://whatgodsay.netlify.app)
 [![TTT](https://img.shields.io/badge/-TickTactToe_WITH_AI-019733?logo=react&style=for-the-badge&logoColor=white)](https://react-ticktactoe.netlify.app)
-[![TeamStatusBoard](https://img.shields.io/badge/-Team_Status_Board-00e8e8?logo=phpstorm&style=for-the-badge&logoColor=white)](https://team.xine.fun)
+[![TeamStatusBoard](https://img.shields.io/badge/-Team_Status_Board-00e8e8?logo=phpstorm&style=for-the-badge&logoColor=white)](https://github.com/Xinecraft/TeamStatusBoard)
 [![DiscordBot](https://img.shields.io/badge/-Discord_Bot-7289DA?logo=discord&style=for-the-badge&logoColor=white)](https://github.com/Xinecraft/swat4ever)
 [![Owly](https://img.shields.io/badge/-Owly_Url_Shortner-F28C28?logo=typescript&style=for-the-badge&logoColor=white)](https://github.com/Xinecraft/owly)
 
