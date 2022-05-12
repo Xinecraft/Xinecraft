@@ -6,8 +6,12 @@
 
 
 ##  Stats
+<span align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinecraft&layout=compact&langs_count=8)](https://github.com/xinecraft)
 
+</span>
+  
 ## Projects
 [![KoS](https://img.shields.io/badge/-Live_Ingame_Tracker-FF2D20?logo=laravel&style=for-the-badge&logoColor=white)](http://live.unse.su)
 [![Maze](https://img.shields.io/badge/-Maze_Generator-c24aff?logo=react&style=for-the-badge&logoColor=white)](https://react-maze-generator.netlify.app)
