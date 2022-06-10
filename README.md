@@ -2,6 +2,7 @@
 <h3 align="center">...</h3>
 
 - 🌱 ~~Learning more of **React** & **Vue**.~~ Currently **procrastinating**.
+- ⛏️Working on MineTrax @ https://minetrax.github.io
 - 📫 Reach @ **zishanansari1337@gmail.com**
 
 
@@ -13,6 +14,7 @@
 </span>
   
 ## Projects
+[![MineTrax](https://img.shields.io/badge/-MineTrax-39b9f1?logo=minecraft&style=for-the-badge&logoColor=white)](http://minetrax.github.io)
 [![KoS](https://img.shields.io/badge/-Live_Ingame_Tracker-FF2D20?logo=laravel&style=for-the-badge&logoColor=white)](http://live.unse.su)
 [![Maze](https://img.shields.io/badge/-Maze_Generator-c24aff?logo=react&style=for-the-badge&logoColor=white)](https://react-maze-generator.netlify.app)
 [![CAuto](https://img.shields.io/badge/-Cellular_Automation-313131?logo=unity&style=for-the-badge&logoColor=white)](https://game-of-life-3d.vercel.app)
