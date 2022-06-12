@@ -15,7 +15,7 @@
   
 ## Projects
 [![MineTrax](https://img.shields.io/badge/-MineTrax_Suite-39b9f1?logo=minecraft&style=for-the-badge&logoColor=white)](http://minetrax.github.io)
-[![KoS](https://img.shields.io/badge/-Live_Ingame_Tracker-FF2D20?logo=laravel&style=for-the-badge&logoColor=white)](http://live.unse.su)
+[![KoS](https://img.shields.io/badge/-Live_Ingame_Tracker-FF2D20?logo=laravel&style=for-the-badge&logoColor=white)](https://swat4survivors.com)
 [![Maze](https://img.shields.io/badge/-Maze_Generator-c24aff?logo=react&style=for-the-badge&logoColor=white)](https://react-maze-generator.netlify.app)
 [![CAuto](https://img.shields.io/badge/-Cellular_Automation-313131?logo=unity&style=for-the-badge&logoColor=white)](https://game-of-life-3d.vercel.app)
 [![WhatGodSay](https://img.shields.io/badge/-WhatGodSay_Search-0080FF?logo=react&style=for-the-badge&logoColor=white)](https://whatgodsay.netlify.app)
