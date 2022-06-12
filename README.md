@@ -2,7 +2,7 @@
 <h3 align="center">...</h3>
 
 - 🌱 ~~Learning more of **React** & **Vue**.~~ Currently **procrastinating**.
-- ⛏️Working on MineTrax @ https://minetrax.github.io
+- ⛏️Working on **MineTrax** @ https://minetrax.github.io
 - 📫 Reach @ **zishanansari1337@gmail.com**
 
 
