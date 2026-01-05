@@ -3,7 +3,6 @@
 
 - 🌱 Learning more of **React** & **Vue**.
 - ⛏️Working on **MineTrax** @ https://minetrax.github.io
-- 📫 Reach @ **zishanansari1337@gmail.com**
 
 
 ##  Stats
